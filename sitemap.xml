@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ajithnn.github.io/</loc>
+    <loc>https://ajithnn.com/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ajithnn.github.io/categories/</loc>
+    <loc>https://ajithnn.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ajithnn.github.io/tags/</loc>
+    <loc>https://ajithnn.com/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
